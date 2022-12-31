@@ -4,11 +4,6 @@ IP-CIDR,207.148.64.114/32,no-resolve
 DOMAIN,goo.gs
 DOMAIN-SUFFIX,goo.gs
 DOMAIN-SUFFIX,emby.vault647.com
-#谷歌大陆节点代理
-DOMAIN-SUFFIX,gstatic.com
-#谷歌play
-DOMAIN-SUFFIX,googleapis.cn
-
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,youtube.com
@@ -16,3 +11,7 @@ DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,v.cvhlscdn.com
 DOMAIN-SUFFIX,theav101.com
 DOMAIN-SUFFIX,mypikpak.com
+#谷歌大陆节点代理
+DOMAIN-SUFFIX,gstatic.com
+#谷歌play
+DOMAIN-SUFFIX,googleapis.cn
