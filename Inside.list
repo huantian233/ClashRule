@@ -2,13 +2,6 @@ DOMAIN,noak.tk
 DOMAIN-SUFFIX,noak.tk
 DOMAIN-SUFFIX,oray.net
 PROCESS-NAME,SunloginClient.exe
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,curseforge.com
-DOMAIN-SUFFIX,v.cvhlscdn.com
-DOMAIN-SUFFIX,theav101.com
-DOMAIN-SUFFIX,mypikpak.com
 IP-CIDR,34.150.118.205/32,no-resolve
 IP-CIDR,34.92.109.8/32,no-resolve
 IP-CIDR,199.15.79.112/32,no-resolve
