@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,teracloud.jp
 
 #Minecraft
 DOMAIN-KEYWORD,curseforge
+
+#deepl
+DOMAIN-SUFFIX,deepl.com
