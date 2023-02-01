@@ -5,11 +5,4 @@ DOMAIN,goo.gs
 DOMAIN-SUFFIX,goo.gs
 DOMAIN-SUFFIX,emby.vault647.com
 DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,v.cvhlscdn.com
-DOMAIN-SUFFIX,mypikpak.com
-#谷歌大陆节点代理
-DOMAIN-SUFFIX,gstatic.com
-#谷歌play
-DOMAIN-SUFFIX,googleapis.cn
