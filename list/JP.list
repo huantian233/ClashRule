@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,pixiv.me
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pximg.net
+
+#teracloud
 DOMAIN-SUFFIX,teracloud.jp
 
 #Minecraft
