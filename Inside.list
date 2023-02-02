@@ -16,3 +16,4 @@ IP-CIDR,103.135.250.65/32,no-resolve
 DOMAIN,api.nopecha.com
 #小刀娱乐网
 DOMAIN-SUFFIX,x6d.com
+PROCESS-NAME,ToDesk.exe
