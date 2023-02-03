@@ -8,6 +8,10 @@
 # IP-CIDR: 46
 # TOTAL: 569
 payload:
+  - DOMAIN-SUFFIX,o.ss2.us
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,usertrust.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,consent.trustarc.com
