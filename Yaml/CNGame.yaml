@@ -1,4 +1,7 @@
 # NAME: 游戏平台国内
 
 payload:
-  - ratt.juno.ea.com
+  - DOMAIN-SUFFIX,ratt.juno.ea.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
+  - DOMAIN-SUFFIX,ratt.juno.ea.com
