@@ -8,6 +8,7 @@
 # IP-CIDR: 46
 # TOTAL: 569
 payload:
+  - DOMAIN-SUFFIX,usertrust.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,consent.trustarc.com
   - DOMAIN,gog.salesmanago.com
