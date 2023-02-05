@@ -10,10 +10,18 @@
 # PROCESS-NAME: 3
 # TOTAL: 2044
 payload:
-  - DOMAIN-SUFFIX,pacopacomama.com
-  - DOMAIN-SUFFIX,jdbstatic.com
-  - DOMAIN-SUFFIX,dmm.co.jp
-  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN,akamai-images-content.com
+  - DOMAIN,akamai-cdn-content.com
+  - DOMAIN,dood.video
+  - DOMAIN,qooqlevideo.com
+  - DOMAIN,filemoon.to
+  - DOMAIN,litvp.com
+  - DOMAIN-SUFFIX,assets-cdn.jable.tv
+  - DOMAIN,thisiscdn.com
+  - DOMAIN,pacopacomama.com
+  - DOMAIN,jdbstatic.com
+  - DOMAIN,dmm.co.jp
+  - DOMAIN,dmm.com
   - DOMAIN,api.okzy.tv
   - DOMAIN,apm-misaka.biliapi.net
   - DOMAIN,apple.comscoreresearch.com
