@@ -10,6 +10,7 @@
 # PROCESS-NAME: 3
 # TOTAL: 2044
 payload:
+  - DOMAIN-SUFFIX,alice.embedgram.com
   - DOMAIN-SUFFIX,akamai-images-content.com
   - DOMAIN-SUFFIX,akamai-cdn-content.com
   - DOMAIN-SUFFIX,dood.video
