@@ -1,2 +1,5 @@
 #游戏加速
+
+#GTA5
 PROCESS-NAME,GTA5.exe
+DOMAIN-SUFFIX,prod.ros.rockstargames.com
