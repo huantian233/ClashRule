@@ -452,7 +452,6 @@ payload:
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
   - DOMAIN-SUFFIX,csgo.wmsj.cn
-  - DOMAIN-SUFFIX,dl.steam.clngaa.com
   - DOMAIN-SUFFIX,dl.steam.ksyna.com
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,fanatical.com
@@ -462,7 +461,6 @@ payload:
   - DOMAIN-SUFFIX,st.dl.bscstorage.net
   - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
   - DOMAIN-SUFFIX,steam-api.com
-  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
