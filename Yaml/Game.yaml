@@ -8,6 +8,7 @@
 # IP-CIDR: 46
 # TOTAL: 569
 payload:
+  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,o.ss2.us
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,akamaihd.net
