@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
 DOMAIN-SUFFIX,ratt.juno.ea.com
 
 #Steam 
+PROCESS-NAME,steamwebhelper.exe
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steampowered.com
