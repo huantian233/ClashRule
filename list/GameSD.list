@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,prod.ros.rockstargames.com
 DOMAIN-SUFFIX,prod.cloud.rockstargames.com
 DOMAIN-SUFFIX,prs-gta5-prod.ros.rockstargames.com
 DOMAIN-SUFFIX,prod.telemetry.ros.rockstargames.com
+
+#GTA5
+PROCESS-NAME,RDR2.exe
