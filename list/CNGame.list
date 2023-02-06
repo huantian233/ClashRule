@@ -1,4 +1,4 @@
-# NAME: 游戏平台国内
+# NAME: 游戏下载国内
 
 #EA
 DOMAIN-SUFFIX,ratt.juno.ea.com
@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
 DOMAIN-SUFFIX,ratt.juno.ea.com
 
 #Steam 
-
+DOMAIN-SUFFIX,steamcontent.com
 
 
 
